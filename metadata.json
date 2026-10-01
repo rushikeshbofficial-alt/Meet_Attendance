@@ -1,0 +1,7 @@
+{
+  "name": "Meet Attendance Tracker",
+  "description": "Track attendee participation, join times, leave times, and total duration across Google Meet conferences with a real-time attendance dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
